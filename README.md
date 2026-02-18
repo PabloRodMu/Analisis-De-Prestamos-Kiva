@@ -2,14 +2,6 @@
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) y preprocesamiento sobre un dataset de préstamos de Kiva, una organización sin fines de lucro que permite a las personas prestar dinero a bajo interés a emprendedores y estudiantes en 77 países.
 
-## Tabla de Contenidos
-- [Introducción](#introducción)
-- [Dataset](#dataset)
-- [Preprocesamiento y Limpieza de Datos](#preprocesamiento-y-limpieza-de-datos)
-- [Ingeniería de Características](#ingeniería-de-características)
-- [Análisis Exploratorio de Datos (EDA) y Visualizaciones](#análisis-exploratorio-de-datos-eda-y-visualizaciones)
-- [Conclusiones y Próximos Pasos](#conclusiones-y-próximos-pasos)
-- [Cómo Ejecutar](#cómo-ejecutar)
 
 ## Introducción
 El objetivo principal de este proyecto es entender mejor la distribución y las características de los préstamos en la plataforma Kiva. Se exploran variables clave como montos de préstamos, países, sectores, y la relación entre el tiempo de publicación y desembolso del préstamo.
